@@ -1,0 +1,13 @@
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/bin/Debug/netcoreapp3.1/OperatorsExcercise.deps.json
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/bin/Debug/netcoreapp3.1/OperatorsExcercise.runtimeconfig.json
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/bin/Debug/netcoreapp3.1/OperatorsExcercise.runtimeconfig.dev.json
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/bin/Debug/netcoreapp3.1/OperatorsExcercise.dll
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/bin/Debug/netcoreapp3.1/OperatorsExcercise.pdb
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.csproj.AssemblyReference.cache
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.AssemblyInfoInputs.cache
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.AssemblyInfo.cs
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.csproj.CoreCompileInputs.cache
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.dll
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.pdb
+/Users/jared/Repos/OperatorsExcercise/OperatorsExcercise/obj/Debug/netcoreapp3.1/OperatorsExcercise.genruntimeconfig.cache
